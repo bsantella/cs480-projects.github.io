@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+     content="width=device-width, initial-scale=1, user-scalable=yes">
+
+  <title>Code9</title>
+</head>
+
+<body>
+	<div class="center" align="center">
+	<h1>Team Name: Code9</h1>
+	<p>Team members:</p>
+	<p>Bryson Santella, DeMarco Green, Steven Lam, Dylan Trinh, Justin Yatco</p>
+  <p>This is our team page for Code9, we plan to make a diet tracker web service.</p>
+</body>
+
+</html>
